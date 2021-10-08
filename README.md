@@ -1,2 +1,2 @@
-# C-LPROGRAMMING
+# C-PROGRAMMING
 Procedural Programming in C Language
