@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1624994497 source:c:\users\user\desktop\hello world c\contro structures\hackerrank\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

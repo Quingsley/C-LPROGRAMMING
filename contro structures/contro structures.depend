@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1624974573 source:c:\users\user\desktop\hello world c\contro structures\main.c
+	<stdio.h>
+	<conio.h>
+
+1625841253 source:c:\users\user\desktop\hello world c\contro structures\a number divisble by 5\divisibility.c
+	<stdio.h>
+	<conio.h>
+
+1625841704 source:c:\users\user\desktop\hello world c\contro structures\for loop.c
+	<stdio.h>
+	<conio.h>
+
+1625843173 source:c:\users\user\desktop\hello world c\contro structures\fibonacci series.c
+	<stdio.h>
+	<conio.h>
+
+1625843797 source:c:\users\user\desktop\hello world c\contro structures\dowhile.c
+	<stdio.h>
+	<conio.h>
+
+1625987424 source:c:\users\user\desktop\hello world c\contro structures\palindrome number.c
+	<stdio.h>
+	<conio.h>
+
+1625984239 source:c:\users\user\desktop\hello world c\contro structures\while demo.c
+	<stdio.h>
+	<conio.h>
+
+1625998027 source:c:\users\user\desktop\hello world c\contro structures\armstrongnumber.c
+	<stdio.h>
+	<conio.h>
+
+1627561948 source:c:\users\user\desktop\hello world c\contro structures\strongnumber.c
+	<stdio.h>
+	<conio.h>
+
+1626283995 source:c:\users\user\desktop\hello world c\contro structures\interestrate.c
+
+1627563706 source:c:\users\user\desktop\hello world c\contro structures\strongnumber3.c
+	<stdio.h>
+	<conio.h>
+
+1627156760 source:c:\users\user\desktop\hello world c\contro structures\functions.c
+	<conio.h>
+	<stdio.h>
+
+1627158316 source:c:\users\user\desktop\hello world c\contro structures\additionfunction.c
+	<stdio.h>
+	<conio.h>
+
+1627159694 source:c:\users\user\desktop\hello world c\contro structures\passbyvalue.c
+	<stdio.h>
+	<conio.h>
+
+1627316291 source:c:\users\user\desktop\hello world c\contro structures\gotocontrol.c
+	<math.h>
+
+1629949522 source:c:\users\user\desktop\hello world c\contro structures\strong number2.c
+	<stdio.h>
+	<conio.h>
+
+1627568009 source:c:\users\user\desktop\hello world c\contro structures\recursion.c
+	<stdio.h>
+	<conio.h>
+
+1627571278 source:c:\users\user\desktop\hello world c\contro structures\sorting.c
+	<stdio.h>
+	<conio.h>
+
+1627572029 source:c:\users\user\desktop\hello world c\contro structures\searching.c
+	<stdio.h>
+	<conio.h>
+
+1627572462 source:c:\users\user\desktop\hello world c\contro structures\transpose of a matrix.c
+	<stdio.h>
+	<conio.h>
+
+1629726785 source:c:\users\user\desktop\hello world c\contro structures\5divisiblity.c
+	<stdio.h>
+	<conio.h>
+
+1629907265 source:c:\users\user\desktop\hello world c\contro structures\go.c
+	<stdio.h>
+
+1627567205 source:c:\users\user\desktop\hello world c\contro structures\passbyrefrence.c
+	<stdio.h>
+	<conio.h>
+
+1625843173 source:c:\users\user\desktop\c programming\contro structures\fibonacci series.c
+	<stdio.h>
+	<conio.h>
+
+1625843173 source:c:\users\user\desktop\c programming\c programming\contro structures\fibonacci series.c
+	<stdio.h>
+	<conio.h>
+
+1627316291 source:c:\users\user\desktop\c programming\c programming\contro structures\gotocontrol.c
+	<math.h>
+
+1632999792 source:c:\users\user\desktop\c programming\c programming\contro structures\assignment.c
+	<stdio.h>
+	<conio.h>
+	<stdbool.h>
+
+1627572029 source:c:\users\user\desktop\c programming\c programming\contro structures\searching.c
+	<stdio.h>
+	<conio.h>
+
+1633065986 source:c:\users\user\desktop\c programming\c programming\contro structures\temp.c
+	<stdio.h>
+	<conio.h>
+

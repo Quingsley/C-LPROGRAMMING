@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1624974909 source:c:\users\user\desktop\hello world c\contro structures\if else demo\ifelse.c
+	<stdio.h>
+	<conio.h>
+
+1625293688 source:c:\users\user\desktop\hello world c\contro structures\if else demo\nestedif.c
+	<stdio.h>
+	<conio.h>
+
+1625294870 source:c:\users\user\desktop\hello world c\contro structures\if else demo\switchcase.c
+	<stdio.h>
+	<conio.h>
+
